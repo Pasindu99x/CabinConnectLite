@@ -12,7 +12,7 @@ go there too.
 
 | # | Time (UTC) | Stage | Who | Prompt (short) | Outcome |
 |---|---|---|---|---|---|
-| P-01 | | | | | |
+| P-01 | 2026-09-28T03:27:00Z | skills | Team | The first skill exists. Follow it and write the other stage skills. Read the repo first. | Wrote `design`, `development`, `review`, `quality`, and `handoff` from `requirements-elaboration` and `docs/process/SKILL-GUIDE.md`. Review findings go in `docs/review/REVIEW.md`. Design uses `D-` and `T-` IDs. All five were written in one pass because the team asked for the other skills now. |
 
 ## Corrections and rejections
 
